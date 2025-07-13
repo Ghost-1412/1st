@@ -16,3 +16,9 @@ git add .
 Step 3: Commit Changes 
 git commit -m "any message"
 
+Pulling Updates from GitHub to pc
+git pull origin main 
+
+Pushing Your Changes from pc to github
+After committing your changes: 
+git push origin main
