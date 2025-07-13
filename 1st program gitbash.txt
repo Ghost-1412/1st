@@ -1,0 +1,15 @@
+Step 1: setup
+git config --global user.name "Your Name"   
+git config --global user.email "your.email@example.com" 
+
+
+
+Step 2: Add Files to Staging Area 
+To add a specific file: 
+git add filename.txt 
+To add all files: 
+git add . 
+
+
+Step 3: Commit Changes 
+git commit -m "any message"
