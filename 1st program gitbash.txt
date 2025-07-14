@@ -1,6 +1,6 @@
 1st make a repository in github :
     --> navigate to path in cmd and type git clone repository url  //must install git bash first and setup step 1
-    ex --> git clone https://github.com/Ghost-1412/1st-git-program.git
+    ex --> git clone https://github.com/Ghost-1412/1st
 
 
 navigate to your cloned directory in git bash
